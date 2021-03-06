@@ -1,6 +1,0 @@
-
-# Flyweight - notes
-
-1. Separate the extrinsic state
-2. Pass them as parameters
-3. Create a factory class
