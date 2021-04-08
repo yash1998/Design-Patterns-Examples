@@ -1,4 +1,4 @@
-package behavioural.decorator;
+package structural.decorator;
 
 public class PlainPizza implements Pizza {
 

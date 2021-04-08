@@ -1,4 +1,4 @@
-package behavioural.adapter;
+package structural.adapter;
 
 public class WeatherAdapter {
     public int findCityAndGetTemp(int zipcode) {

@@ -1,4 +1,4 @@
-package behavioural.adapter;
+package structural.adapter;
 
 public class WeatherFinderImpl implements WeatherFinder {
 
